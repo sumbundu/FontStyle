@@ -13,3 +13,7 @@ p.thick {
   div.b {
     word-wrap: break-word;
   }
+
+  div.c {
+    text-indent: 50px;
+  }
